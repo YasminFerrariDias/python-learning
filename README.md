@@ -1,14 +1,9 @@
 # Python Learning
 
-Repositório de estudos em Python, em constante atualização conforme o avanço nos estudos.
-Os exercícios cobrem desde operações básicas e estruturas condicionais até manipulação de strings, listas, tuplas, dicionários, laços de repetição e cálculos matemáticos e físicos aplicados.
+Repositório de estudos em Python. Os arquivos cobrem fundamentos da linguagem, estruturas condicionais, laços de repetição, strings, listas, tuplas, dicionários e cálculos aplicados. Atualizado continuamente conforme os estudos avançam.
 
 ## Como Executar
 
-Requisito: [Python 3.8+](https://www.python.org/downloads/)
+​```git clone https://github.com/YasminFerrariDias/python-learning.git```
 
-```bash
-python nome-do-arquivo.py
-```
-
-> Desenvolvido por **Yasmin Ferrari Dias** 🚀
+```python NomeDoArquivo.py```
